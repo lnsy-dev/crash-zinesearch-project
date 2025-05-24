@@ -1,2 +1,2 @@
-# crash-zinesearch-project
-Starter Project in Obsidian for Zine Workshop
+Welcome to Crash ZineSearch!
+
