@@ -1,4 +1,6 @@
 Welcome to Crash Zine!
+
+This project is an [Obsidian.md](https://obsidian.md) notebook to help you research and plan zines. 
 # Create a New Zine
 
 Command-P or Windows-P, then type Crash Zine
