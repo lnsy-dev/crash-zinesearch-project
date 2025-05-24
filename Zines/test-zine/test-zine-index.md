@@ -1,3 +1,8 @@
+---
+size: A4
+type: index
+tags: [zine, test-zine]
+---
 # Index
 
 1. [[test-zine-cover|Tell me About]]
