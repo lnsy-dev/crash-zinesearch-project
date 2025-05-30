@@ -4,13 +4,14 @@
 
 This project is an [Obsidian.md](https://obsidian.md) notebook to help you research and plan zines. 
 
-If you would like the software features for this zine, download and install Obsidian.md. Then download or git clone this folder 
+If you would like the software features for this project, download and install Obsidian.md. Then download or git clone this folder 
 
 `git clone {folder name here}`
 
 and open the folder with Obsidian. It will ask you if you trust the developer of the notebook. You trust me, right? 
 
 
+# CrashZineNotebook Features
 ## Create a New Zine
 
 Command-P or Windows-P, then type Crash Zine
@@ -27,6 +28,8 @@ This saves files into your sources folder.
 Import the JSON files found in obsidian-clipper-json-files
 
 ## Instant Citation
+
+
 
 Ctrl-Shift-C copies text from sources
 
@@ -52,3 +55,9 @@ https://thecreativeindependent.com/guides/how-to-make-a-zine/
 [[An 8 Page Zine Outline]]
 [[A 16 page Zine Outline]]
 
+## Software
+
+Check out [[Paper Sizes Reference]] for layout suggestions.
+
+https://www.scribus.net/
+https://affinity.serif.com/en-us/publisher/
